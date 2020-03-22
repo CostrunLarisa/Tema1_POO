@@ -14,8 +14,7 @@ public:
 	int getSize();		//determinarea lungimii listei
 	void inserare(int,int); //inserarea unui element x pe pozitia i
 	void remove(int);		//stergerea unui element x din lista
-	void inversare(Lista&);		//inversarea elementelor din lista
-	void reverse();
+	void reverse();				//inversarea elementelor din lista
 	int suma();		            //suma elementelor din lista
 	int elemMinim();            //
 	int elemMaxim();
